@@ -186,3 +186,6 @@ Content Type -  Default (text/plain) or text/html
 Triggers -  Select events (e.g., Failure, Success, etc.)
 
 9. Click ok and go to gmail for checking after building
+
+
+ssh-keygen -t rsa -C "email"
